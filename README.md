@@ -25,8 +25,8 @@ Projeto que visa que um jogador de e-sports possa encontrar uma dupla para jogar
   - Fazer rotas no back de envio de notificação ao usuário.
 
 
-:::info
+
 **Posso melhorar em algo?** Conecte-se comigo e vamos conversar no **[LinkedIn](https://www.linkedin.com/in/maria-clara-negrao-dev)**!
-:::
+
 
 ###### tags: `nlw` `moblie` `web` `server`
